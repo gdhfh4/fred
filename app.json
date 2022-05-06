@@ -1,11 +1,11 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "hry45",
+    "description": "hre.",
+    "keywords": ["Vre"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "ec0563cf-ff82-4a02-a1a6-8ad976ccfb32"
         },
         "AID": {
             "description": "AlterID",
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/gdhfh4/",
+    "repository": "https://github.com/gdhfh4/fred",
     "stack": "container"
 }
